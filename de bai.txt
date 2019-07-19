@@ -1,0 +1,6 @@
+﻿Xây dựng lớp tam giác thuộc tính là 3 cạnh tam giác, viết pthuc ktra có phải tam giá đều, vuông, bt, cân
+viết pthuc để tính chu vi diện tích
+================================
+viết ct cho phép nhập mảng tam giác, sau đó nhập xuaansrt mang tam giác, khi xuất thì cho biết tam giác gì?
+sắp xếp mảng theo chiều ...
+=============================

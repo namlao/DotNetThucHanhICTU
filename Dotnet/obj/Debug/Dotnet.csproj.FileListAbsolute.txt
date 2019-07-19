@@ -1,0 +1,7 @@
+C:\Users\NamJa\source\repos\Dotnet\Dotnet\obj\Debug\Dotnet.csprojAssemblyReference.cache
+C:\Users\NamJa\source\repos\Dotnet\Dotnet\obj\Debug\Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\NamJa\source\repos\Dotnet\Dotnet\bin\Debug\Dotnet.exe.config
+C:\Users\NamJa\source\repos\Dotnet\Dotnet\bin\Debug\Dotnet.exe
+C:\Users\NamJa\source\repos\Dotnet\Dotnet\bin\Debug\Dotnet.pdb
+C:\Users\NamJa\source\repos\Dotnet\Dotnet\obj\Debug\Dotnet.exe
+C:\Users\NamJa\source\repos\Dotnet\Dotnet\obj\Debug\Dotnet.pdb
